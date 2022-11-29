@@ -6,4 +6,5 @@
 <h2># Real time object detection</h2>
 <h3>In order to identify objects in the image from the camera, the neural network is trained on millions of photos and videos, which increases accuracy</h3>
 
-<h2>Запуск</h2>
+<h2>Start:</h2>
+<h3>python3 rtod.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel</h3>
